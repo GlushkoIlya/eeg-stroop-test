@@ -67,7 +67,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ваш_логин/eeg-stroop-test.git
+git clone https://github.com/GlushkoIlya/eeg-stroop-test.git
 cd eeg-stroop-test
 
 # Сборка проекта
